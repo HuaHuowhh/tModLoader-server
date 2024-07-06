@@ -7,10 +7,6 @@ curl -O https://github.com/tModLoader/tModLoader/releases/download/v0.11.8.9/tMo
 unzip tModLoader.Linux.v0.11.8.9.zip
 rm tModLoader.Linux.v0.11.8.9.zip
 chmod +x tModLoaderS*
-rm System*
-rm Mono*
-rm monoconfig
-rm mscorlib.dll
 
 
 touch ~/../usr/bin/Terra
