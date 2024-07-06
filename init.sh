@@ -4,8 +4,8 @@ pkg install unzip -y
 pkg install mono -y
 
 curl -O https://file.upfile.live/uploads/20240706/8432e0e748a2011b6f5f585c9e6f8aeb.zip
-unzip terraria-server-1449.zip
-rm terraria-server-1449.zip
+unzip 1449.zip
+rm 1449.zip
 chmod +x 1449/Linux/TerrariaS*
 rm 1449/Linux/System*
 rm 1449/Linux/Mono*
