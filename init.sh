@@ -3,9 +3,9 @@ apt upgrade -y && apt update
 pkg install unzip -y
 pkg install mono -y
 
-curl -O https://file.upfile.live/uploads/20240706/f4d6283538d912d0eb9815d7588992d6.zip
-unzip f4d6283538d912d0eb9815d7588992d6.zip
-rm f4d6283538d912d0eb9815d7588992d6.zip
+curl -O https://file.upfile.live/uploads/20240706/d3c452473399161bee1338c19402048e.zip
+unzip d3c452473399161bee1338c19402048e.zip
+rm d3c452473399161bee1338c19402048e.zip
 chmod +x 1449/Linux/TerrariaS*
 rm 1449/Linux/System*
 rm 1449/Linux/Mono*
