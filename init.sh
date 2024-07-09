@@ -1,5 +1,4 @@
 #!/bin/bash
-apt upgrade -y && apt update
 pkg install unzip -y
 pkg install mono -y
 
